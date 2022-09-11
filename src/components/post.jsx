@@ -1,7 +1,7 @@
 import React from 'react';
 import {Checkbox ,Typography, Box, Card, CardHeader, Avatar, IconButton, CardMedia, CardActions, CardContent,} from '@mui/material';
 import { MoreVert,ShareOutlined,FavoriteBorder,Favorite } from '@mui/icons-material'
-import CardImg from '../images/tutor1.jpeg';
+//import CardImg from '../images/tutor1.jpeg';
 import akshuImg3 from '../images/akshu3.jpeg';
 const Post = () => {
   return (

@@ -1,5 +1,5 @@
 import { Pets,Mail, Notifications } from '@mui/icons-material';
-import { AppBar, Box, InputBase, styled, Toolbar, Typography,Badge, Avatar ,Menu,MenuItem} from '@mui/material';
+import { AppBar,InputBase, styled, Toolbar, Typography,Badge, Avatar ,Menu,MenuItem} from '@mui/material';
 import React, { useState } from 'react';
 import Userimg from '../images/user.jpeg';
 
